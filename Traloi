@@ -1,0 +1,3 @@
+4. các phương thức vòng đời được gọi khi ứng dụng đang chạy và người sử dụng bấm vào nút back sau đó mở lại ứng dụng: onPause, onStop, onDestroy, onCreate, onStart, onResume
+5. Phương thức vòng đời: onPause, onStop, onRestart, onStart,onResume
+6. Phương thức vòng đời: onPause(). Vì: onPause() là để ghi những thay đổi chưa được lưu, nó được gọi khi hệ thống chuẩn bị chuyển sang một activity khác
